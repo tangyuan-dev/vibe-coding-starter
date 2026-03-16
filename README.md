@@ -7,7 +7,7 @@ AI 驱动编程新范式 | 从入门到实战
 [![Star](https://img.shields.io/github/stars/tangyuan-dev/vibe-coding-starter?style=social)](https://github.com/tangyuan-dev/vibe-coding-starter/stargazers)
 [![License](https://img.shields.io/github/license/tangyuan-dev/vibe-coding-starter)](LICENSE)
 
-> 用 AI 编程 — AI Agent 时代，让每个人拥有 AI 同事和朋友
+> 用 AI 编程 — AI Agent 时代的操作系统，与 AI 共创美好未来
 
 ## 什么是 Vibe Coding？
 
