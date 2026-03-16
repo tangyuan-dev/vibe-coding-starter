@@ -1,5 +1,7 @@
 # 🎵 Vibe Coding 完全指南
 
+[English](./README-en.md) | 中文
+
 AI 驱动编程新范式 | 从入门到实战
 
 [![Star](https://img.shields.io/github/stars/tangyuan-dev/vibe-coding-starter?style=social)](https://github.com/tangyuan-dev/vibe-coding-starter/stargazers)
