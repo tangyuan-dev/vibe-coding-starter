@@ -5,7 +5,7 @@ AI-Driven Programming New Paradigm | From Zero to实战
 [![Star](https://img.shields.io/github/stars/tangyuan-dev/vibe-coding-starter?style=social)](https://github.com/tangyuan-dev/vibe-coding-starter/stargazers)
 [![License](https://img.shields.io/github/license/tangyuan-dev/vibe-coding-starter)](LICENSE)
 
-> Code with AI, not by AI
+> Code with AI — In the AI Agent Era, Everyone Can Become an AI Engineer
 
 ## What is Vibe Coding?
 
